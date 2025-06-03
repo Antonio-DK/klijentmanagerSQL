@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klijentmanagerSQL", "klijentmanager\klijentmanagerSQL.csproj", "{62D1B53E-FF0C-4CE4-9F1F-BEB01BFCFF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D1B53E-FF0C-4CE4-9F1F-BEB01BFCFF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D1B53E-FF0C-4CE4-9F1F-BEB01BFCFF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D1B53E-FF0C-4CE4-9F1F-BEB01BFCFF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D1B53E-FF0C-4CE4-9F1F-BEB01BFCFF36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89F41200-F165-48CC-96DB-A59EF12C8B47}
+	EndGlobalSection
+EndGlobal
